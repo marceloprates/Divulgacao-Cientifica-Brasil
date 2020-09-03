@@ -1,2 +1,20 @@
-# Divulgacao-Cientifica-Brasil
+# Divulgação Científica Brasil
 O propósito deste repositório é listar projetos de divulgação científica brasileiros, incluindo suas campanhas de financiamento coletivo.
+
+* <span style="background:#156064; color:white">Biologia</span>
+* <span style="background:#F8E16C">Paleontologia</span>
+* <span style="background:#FFC2B4">Evolução</span>
+* <span style="background:#FB8F67">História</span>
+* <span style="background:#7678ED; color:white">Política</span>
+
+
+
+|Nome|Plataformas|Conteúdos|Membros|Descrição|Financiamento|
+|-|-|-|-|-|-|
+|Canal do Pirulla|[YouTube](https://www.youtube.com/user/Pirulla25/featured)|<span style="background:#156064; color:white">Biologia</span>, <span style="background:#F8E16C">Paleontologia</span>, <span style="background:#FFC2B4">Evolução</span>|[Paulo Miranda Nascimento (Pirulla)](https://twitter.com/Pirulla25)|Canal voltado às coisas que mais me interessam: ciência, religião e <span style="background:#FFC2B4">Evolução</span>.|[Dopel Store](https://www.doppelstore.com.br/pirula)|
+|Colecionadores de Ossos|[YouTube](https://www.youtube.com/c/Colecionadoresdeossos), [Site](https://www.colecionadoresdeossos.com/)|<span style="background:#156064; color:white">Biologia</span>, <span style="background:#F8E16C">Paleontologia</span>, <span style="background:#FFC2B4">Evolução</span>|[Aline Ghilardi](https://twitter.com/alinemghilardi), [Tito Aureliano](https://twitter.com/tito_aureliano)|Vídeos sobre #<span style="background:#F8E16C">Paleontologia</span> feitos por paleontólogos, com a participação de colegas pesquisadores do todo Brasil e do mundo. Conheça a pesquisa científica diretamente com quem ela é feita! Conheça, investigue e aventure-se.|[Apoia.se](https://apoia.se/colecionadoresdeossos), [Picpay](https://app.picpay.com/user/colecionadoresdeossos)|
+|Buenas Ideias|[YouTube](https://www.youtube.com/channel/UCQRPDZMSwXFEDS67uc7kIdg)|<span style="background:#FB8F67">História</span>|Eduardo Bueno (Peninha)|Buenas Ideias é um canal dedicado à <span style="background:#FB8F67">História</span> do Brasil, contada por Eduardo Bueno, pesquisador, escritor e agora YouTuber.  No canal Buenas Ideias você conhece a <span style="background:#FB8F67">História</span> através de um ponto de vista divertido, que marca a genialidade e humildade do autor.|Torne-se um Membro no YouTube|
+|Lili Schwarcz|[YouTube](https://www.youtube.com/channel/UChj-CaMYRpv0-vrqKG0-aEw)|<span style="background:#FB8F67">História</span>|Lili Schwarcz|Espaço de descoberta e democratização da <span style="background:#FB8F67">História</span>.||
+|Geopizza|[YouTube](https://www.youtube.com/channel/UC6Smk_EcznfbpoDSE4jpKXQ), [Spotify](https://open.spotify.com/show/6avN5VSMFcpD63DXY5Tvg9), [Twitter](https://twitter.com/Geopizzza), [Facebook](https://www.facebook.com/Geopizza/), [Instagram](https://www.instagram.com/geopizzza/), [Site](https://geopizza.com.br/) |<span style="background:#FB8F67">História</span>|[Rodrigo Zottis](https://twitter.com/Zottiss), Alexander Desmouceaux|Geopizza é um podcast sobre <span style="background:#FB8F67">História</span>s <span style="background:#7678ED; color:white">Política</span>s, atemporais e contemporâneas. Afinal toda <span style="background:#FB8F67">História</span>, acaba em pizza.|[Apoia.se](https://apoia.se/geopizza)|
+|Tempero Drag|[YouTube](https://www.youtube.com/channel/UCZdJE8KpuFm6NRafHTEIC-g), [Twitter](https://twitter.com/temperodrag)|<span style="background:#7678ED; color:white">Política</span>, Psicanálise, Marxismo|Rita Von Hunty|Meu nome é Rita Von Hunty. Além de drag queen, também sou esposa, mãe de dezesseis crianças e dona de lar. Lavo, passo, cozinho... eu disse COzinho, seu pervertidinho. Venha comigo provar o Tempero Drag!||
+|Leitura ObrigaHISTÓRIA|[YouTube](https://www.youtube.com/channel/UCtMjnvODdK1Gwy8psW3dzrg), [Site](https://leituraobrigahistoria.com/)|<span style="background:#FB8F67">História</span>|Icles Rodrigues, Luanna Jales, Mariane Pisani|O Leitura ObrigaHISTÓRIA surgiu como um canal do YouTube criado em agosto de 2015 dedicado a compartilhar conhecimento histórico, focado especialmente em dicas de leitura tanto para estudantes e professores da área quanto para o público geral.|[Apoia.se](https://apoia.se/obrigahistoria)|
